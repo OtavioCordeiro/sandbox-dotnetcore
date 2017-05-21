@@ -1,0 +1,8 @@
+c:\GitRepository\sandbox-dotnetcore\hwapp\bin\Debug\netcoreapp1.1\hwapp.deps.json
+c:\GitRepository\sandbox-dotnetcore\hwapp\bin\Debug\netcoreapp1.1\hwapp.runtimeconfig.json
+c:\GitRepository\sandbox-dotnetcore\hwapp\bin\Debug\netcoreapp1.1\hwapp.runtimeconfig.dev.json
+c:\GitRepository\sandbox-dotnetcore\hwapp\bin\Debug\netcoreapp1.1\hwapp.dll
+c:\GitRepository\sandbox-dotnetcore\hwapp\bin\Debug\netcoreapp1.1\hwapp.pdb
+c:\GitRepository\sandbox-dotnetcore\hwapp\obj\Debug\netcoreapp1.1\hwapp.AssemblyInfo.cs
+c:\GitRepository\sandbox-dotnetcore\hwapp\obj\Debug\netcoreapp1.1\hwapp.dll
+c:\GitRepository\sandbox-dotnetcore\hwapp\obj\Debug\netcoreapp1.1\hwapp.pdb
